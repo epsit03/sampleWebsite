@@ -2,7 +2,8 @@ title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+color_scheme: nil
+
 
 url: https://epsit03.github.io/sampleWebsite
 
